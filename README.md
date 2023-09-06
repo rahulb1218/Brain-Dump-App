@@ -1,2 +1,2 @@
-# Brain Dump App
+# bizzy
  The notes app for the busy brain
